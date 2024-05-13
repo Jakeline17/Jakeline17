@@ -1,16 +1,47 @@
-### Hi there 👋
+﻿## Olá! 👋 meu nome é Jaqueline !
 
-<!--
-**Jakeline17/Jakeline17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e impulsionada pelo desejo de criar soluções inovadoras através da programação.
 
-Here are some ideas to get you started:
+## Um pouco sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👩‍💻  Atualmente cursando Análise e Desenvolvimento de Sistemas na UniCesumar.
+* 🚀  Busco aprimorar minhas habilidades em desenvolvimento web (HTML, CSS e JavaScript), Java, banco de dados e Inteligência Artificial (IA) generativa.
+* 🎯  Objetivo de me tornar uma desenvolvedora full-stack.
+* ✨  Trago 11 anos de experiência no comércio, onde desenvolvi habilidades em resolução de problemas, comunicação eficaz e foco no cliente.
+
+## Habilidades:
+
+* HTML
+* CSS
+* JavaScript
+* Java
+* Git
+* GitHub
+* SQL
+
+## Experiência:
+
+* **Supervisora de Loja** - Grupo Casa China (Novembro de 2017 - Presente)
+* **Operadora de Caixa** - Casa China (Setembro de 2023)
+
+##  Formação:
+
+* **Curso Superior de Tecnologia (CST) em Análise de Sistemas** - UniCesumar
+
+##  Projetos:
+
+* Em breve! 😄
+
+## Contato:
+
+* 📧  jaquelinesouza905@gmail.com
+* 🔗  www.linkedin.com/in/jaqueline-souza-a2ab80190
+
+##  Buscando:
+
+* Uma oportunidade como Desenvolvedora para contribuir com projetos inovadores e desafiadores, onde possa aplicar minhas habilidades e continuar crescendo profissionalmente.
+
+##  Vamos conectar! 😊
+﻿
+
+
