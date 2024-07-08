@@ -5,8 +5,8 @@ Sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecno
 ## Um pouco sobre mim:
 
 * 👩‍💻  Atualmente cursando Análise e Desenvolvimento de Sistemas na UniCesumar.
-* 🚀  Busco aprimorar minhas habilidades em desenvolvimento web (HTML, CSS e JavaScript), Java, banco de dados e Inteligência Artificial (IA) generativa.
-* 🎯  Objetivo de me tornar uma desenvolvedora full-stack.
+* 🚀  Busco aprimorar minhas habilidades em desenvolvimento web (HTML, CSS e JavaScript),Java, Inteligência Artificial (IA) generativa.
+* 🎯  Objetivo de me tornar uma desenvolvedora front-end
 * ✨  Trago 11 anos de experiência no comércio, onde desenvolvi habilidades em resolução de problemas, comunicação eficaz e foco no cliente.
 
 ## Habilidades:
@@ -14,10 +14,10 @@ Sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecno
 * HTML
 * CSS
 * JavaScript
-* Java
+* IA Generativa
 * Git
 * GitHub
-* SQL
+  
 
 ## Experiência:
 
